@@ -1,38 +1,30 @@
 # _Inventory Management Software_
 
-* _Inventory Management Software is an application that allows users to easily track the shoes inventory from the stock list_*
+_Inventory Management Software is an application that allows users to easily track the shoes inventory from the stock list_
 
 ## Table of Contents
 
-## Technologies Used
+###### Technologies Used
 
-*_Python_*
+*Python*
 
-## Description
+###### Description
 
-*_This application allows users to do the following_*
+*This application allows users to do the following
+*Register a new shoes
+*Search a shoes by product code and show the shows price, product name, inventory and country
+*show all the shoes stock
+*Show the lowest stock shoes
+*Restock the shoes product
+*Show the highest stock and for sale product
+*Show the total value of each product
 
-*_Register a new shoes_*
+###### Setup/Installation
 
-*_Search a shoes by product code and show the shows price, product name, inventory and country_*
+*Clone this repository to your computer
+*Open the inventory.py in Python compiler
 
-*_show all the shoes stock_*
+###### License
 
-*_Show the lowest stock shoes_*
-
-*_Restock the shoes product_*
-
-*_Show the highest stock and for sale product_*
-
-*_Show the total value of each product_*
-
-## Setup/Installation
-
-*_Clone this repository to your computer_*
-
-*_Open the inventory.py in Python compiler_*
-
-## License
-
-*_Inventory Management Software is released under the MIT License_*
+*Inventory Management Software is released under the MIT License
 
